@@ -9,6 +9,9 @@
 - [https://medium.com/ios-os-x-development/latest](https://medium.com/ios-os-x-development/latest)
 - [https://medium.com/swift-programming](https://medium.com/swift-programming)
 - [http://www.swiftcafe.io/](http://www.swiftcafe.io/)
+- [http://swift.gg/](http://swift.gg/)
+- [http://ios-goodies.com/](http://tips.producter.io/)
+- [http://tips.producter.io/](http://tips.producter.io/)
 
 ### Video & Sharing
 - [https://www.skilled.io/](https://www.skilled.io/)
@@ -21,3 +24,51 @@
 - [http://appcoda.com/](http://appcoda.com/)
 - [http://www.nsscreencast.com/episodes](http://www.nsscreencast.com/episodes) (not free)
 - [http://useyourloaf.com/](http://useyourloaf.com/)
+
+### Blog & Architecture
+- [http://khanlou.com/](http://khanlou.com/)
+- [http://casatwy.com/](http://casatwy.com/)
+- [http://blog.cnbluebox.com/](http://blog.cnbluebox.com/)
+- [http://limboy.me/](http://limboy.me/)
+
+### Blog & Tips
+- [http://devmonologue.com/ios/](http://devmonologue.com/ios/)
+- [http://blog.krzyzanowskim.com/](http://blog.krzyzanowskim.com/)
+- [http://www.mokacoding.com/](http://www.mokacoding.com/)
+
+### Blog & Expert
+- [http://www.starming.com/](http://www.starming.com/)
+- [http://blog.leichunfeng.com/](http://blog.leichunfeng.com/)
+- [http://www.jianshu.com/users/8117a2955480/latest_articles](http://www.jianshu.com/users/8117a2955480/latest_articles)
+- [http://gracelancy.com/](http://gracelancy.com/)
+- [http://blog.ibireme.com/](http://blog.ibireme.com/)
+- [http://xiongzenghuidegithub.github.io/](http://xiongzenghuidegithub.github.io/)
+
+### Blog & Teamwork
+- [http://tech.glowing.com/cn/](http://tech.glowing.com/cn/)
+- [http://tech.meituan.com/](http://tech.meituan.com/)
+
+### Blog & Cocoa
+- [https://christiantietze.de/posts/](https://christiantietze.de/posts/)
+
+### Project & Free Books
+- [http://samvlu.com/](http://samvlu.com/)
+- [http://www.softwarehow.com/best-blogs-for-ios-developers/](http://www.softwarehow.com/best-blogs-for-ios-developers/)
+- [http://www.apeth.com/iOSBook/](http://www.apeth.com/iOSBook/)
+
+## Front-End
+- [https://docs.webplatform.org](https://docs.webplatform.org)
+- [https://developer.mozilla.org](https://developer.mozilla.org)
+- [http://pro.jsonlint.com/](http://pro.jsonlint.com/)
+- [http://www.sitepoint.com/](http://www.sitepoint.com/)
+- [http://javascriptissexy.com/](http://javascriptissexy.com/)
+- [http://www.quirksmode.org/](http://www.quirksmode.org/)
+- [http://learn.shayhowe.com/](http://learn.shayhowe.com/)
+- [http://collect.w3ctrain.com/](http://collect.w3ctrain.com/)
+
+## Android
+- [http://blog.csdn.net/yanbober](http://blog.csdn.net/yanbober)
+- [http://chenfuduo.me/](http://chenfuduo.me/)
+- [http://www.vogella.com/tutorials/android.html](http://www.vogella.com/tutorials/android.html)
+- [https://guides.codepath.com/android](https://guides.codepath.com/android)
+- [http://www.jianshu.com/users/b99b0edd4e77/latest_articles](http://www.jianshu.com/users/b99b0edd4e77/latest_articles)
