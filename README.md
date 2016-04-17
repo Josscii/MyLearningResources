@@ -20,6 +20,7 @@
 - [https://www.youtube.com/playlist?list=PLOU2XLYxmsIKGQekfmV0Qk52qLG5LU2jO](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKGQekfmV0Qk52qLG5LU2jO) (made by Google)
 - [http://2015.funswiftconf.com/](http://2015.funswiftconf.com/)
 - [http://www.thedotpost.com/](http://www.thedotpost.com/)
+- [http://www.uikonf.com/](http://www.uikonf.com/)
 
 ### Tutorial & Teaching
 - [http://jamesonquave.com/blog/](http://jamesonquave.com/blog/)
