@@ -18,6 +18,7 @@
 - [http://www.pomo.tv/](http://www.pomo.tv/)
 - [https://realm.io/news/](https://realm.io/news/)
 - [https://www.youtube.com/playlist?list=PLOU2XLYxmsIKGQekfmV0Qk52qLG5LU2jO](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKGQekfmV0Qk52qLG5LU2jO) (made by Google)
+- [http://2015.funswiftconf.com/](http://2015.funswiftconf.com/)
 
 ### Tutorial & Teaching
 - [http://jamesonquave.com/blog/](http://jamesonquave.com/blog/)
