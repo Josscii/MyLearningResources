@@ -58,6 +58,7 @@
 - [http://samvlu.com/](http://samvlu.com/)
 - [http://www.softwarehow.com/best-blogs-for-ios-developers/](http://www.softwarehow.com/best-blogs-for-ios-developers/)
 - [http://www.apeth.com/iOSBook/](http://www.apeth.com/iOSBook/)
+- [http://books.aidanf.net/learn-swift](http://books.aidanf.net/learn-swift)
 
 ## Front-End
 - [https://docs.webplatform.org](https://docs.webplatform.org)
