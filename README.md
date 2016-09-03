@@ -1,4 +1,4 @@
-# 我的学习资源备忘录
+# My Learning Resources
 ## iOS
 ### Weekly & Daily
 - [http://iosdevweekly.com/](http://iosdevweekly.com/)
