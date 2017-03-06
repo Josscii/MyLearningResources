@@ -83,7 +83,6 @@
 
 ## Android
 - [http://blog.csdn.net/yanbober](http://blog.csdn.net/yanbober)
-- [http://chenfuduo.me/](http://chenfuduo.me/)
 - [http://www.vogella.com/tutorials/android.html](http://www.vogella.com/tutorials/android.html)
 - [https://guides.codepath.com/android](https://guides.codepath.com/android)
 - [http://www.jianshu.com/users/b99b0edd4e77/latest_articles](http://www.jianshu.com/users/b99b0edd4e77/latest_articles)
