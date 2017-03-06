@@ -69,6 +69,7 @@
 - [http://www.apeth.com/iOSBook/](http://www.apeth.com/iOSBook/)
 - [http://books.aidanf.net/learn-swift](http://books.aidanf.net/learn-swift)
 - [http://asciiwwdc.com/](http://asciiwwdc.com/)
+- [https://www.appsight.io/](https://www.appsight.io/)
 
 ## Front-End
 - [https://docs.webplatform.org](https://docs.webplatform.org)
