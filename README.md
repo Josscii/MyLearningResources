@@ -80,6 +80,7 @@
 - [http://www.quirksmode.org/](http://www.quirksmode.org/)
 - [http://learn.shayhowe.com/](http://learn.shayhowe.com/)
 - [http://collect.w3ctrain.com/](http://collect.w3ctrain.com/)
+- [Vue.js](https://alligator.io/vuejs/)
 
 ## Android
 - [http://blog.csdn.net/yanbober](http://blog.csdn.net/yanbober)
