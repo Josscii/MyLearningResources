@@ -35,6 +35,7 @@
 - [http://casatwy.com/](http://casatwy.com/)
 - [http://blog.cnbluebox.com/](http://blog.cnbluebox.com/)
 - [http://limboy.me/](http://limboy.me/)
+- [http://matteomanferdini.com/](http://matteomanferdini.com/)
 
 ### Blog & Tips
 - [http://devmonologue.com/ios/](http://devmonologue.com/ios/)
