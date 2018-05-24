@@ -29,6 +29,7 @@
 - [http://www.nsscreencast.com/episodes](http://www.nsscreencast.com/episodes) (not free)
 - [http://useyourloaf.com/](http://useyourloaf.com/)
 - [https://cocoacasts.com](https://cocoacasts.com)
+- [https://www.pointfree.co/](https://www.pointfree.co/)
 
 ### Blog & Architecture
 - [http://khanlou.com/](http://khanlou.com/)
